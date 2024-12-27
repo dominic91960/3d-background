@@ -25,7 +25,7 @@ const VantaBackground: React.FC<VantaBackgroundProps> = ({ children }) => {
           gyroControls: false,
           scale: 1.0,
           scaleMobile: 1.0,
-          maxDistance: 10.0,
+          maxDistance: 0.0,
           spacing: 20.0,
           color: 0xffffff,
           backgroundColor: 0x000000,
